@@ -1,6 +1,23 @@
 # brew_crew
 
-A new Flutter application.
+Flutter application with Firebase Authentication for kepping track of members coffe.
+![ScreenShot](https://github.com/orangeztorm/brew_crew/blob/master/assets/Screenshot_20200726-202700.jpg)
+SIGUP PAGE
+
+![ScreenShot](https://github.com/orangeztorm/brew_crew/blob/master/assets/Screenshot_20200726-202706.jpg)
+SIGNIN PAGE
+
+![ScreenShot](https://github.com/orangeztorm/brew_crew/blob/master/assets/Screenshot_20200726-211050.jpg)
+BREW LIST PAGE
+![ScreenShot](https://github.com/orangeztorm/brew_crew/blob/master/assets/Screenshot_20200727-022115.jpg)
+BREW LIST PAGE POPULATED
+
+![ScreenShot](https://github.com/orangeztorm/brew_crew/blob/master/assets/Screenshot_20200727-022602.jpg)
+SETTINGS PAGE WITH SLIDER AND DROPDOWNS
+
+
+
+
 
 ## Getting Started
 
